@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "movies": "Sita Ramam"
+    },
+    {
+        "id":2,
+        "movies":"Drishyam 2"
+    },
+    {
+        "id":3,
+        "movies":"Jersey"
+    },
+    {
+        "id":4,
+        "movies":"Jaadugar"
+    },
+    {
+        "id":5,
+        "movies":"Kantara"
+    },
+    {
+        "id":6,
+        "movies":"Doctor G"
+    },
+    {
+        "id":7,
+        "movies":"Monica, O My Darling "
+    },
+    {
+        "id":8,
+        "movies":"Bhool Bhulaiyaa 2"
+    },
+    {
+        "id":9,
+        "movies":"RRR"
+    },
+    {
+        "id":10,
+        "movies":"Pathaan"
+    },
+    {
+        "id":11,
+        "movies":"Freddy"
+    },
+    {
+        "id":12,
+        "movies":"Mission Majnu"
+    },
+    {
+        "id":13,
+        "movies":"Gandhi Godse Ek Yudh"
+    },
+    {
+        "id":14,
+        "movies":"The Kashmir Files"
+    },
+    {
+        "id":15,
+        "movies":"Gehraiyaan"
+    },
+    {
+        "id":16,
+        "movies":"Runway 34"
+    },
+    {
+        "id":17,
+        "movies":"Blurr"
+    },
+    {
+        "id":18,
+        "movies":"Cuttputlli"
+    },
+    {
+        "id":19,
+        "movies":"A Thursday"
+    },
+    {
+        "id":20,
+        "movies":"HIT: The First Case"
+    }
+]
